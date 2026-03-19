@@ -23,8 +23,6 @@ Welcome to the official GitHub of Du Xiaoman AGI Lab! We are dedicated to advanc
 | Project | Description | Status |
 |---------|-------------|--------|
 | [FIRE-Bench](https://github.com/DXM-AGI/FIRE-Bench) | Financial Intelligence Evaluation Benchmark | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
-| | | ![Coming Soon](https://img.shields.io/badge/Status-Coming_Soon-blue) |
-| | | ![Coming Soon](https://img.shields.io/badge/Status-Coming_Soon-blue) |
 
 ---
 

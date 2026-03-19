@@ -23,8 +23,6 @@
 | 项目 | 描述 | 状态 |
 |------|------|------|
 | [FIRE-Bench](https://github.com/DXM-AGI/FIRE-Bench) | 金融智能体评测基准 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
-| | | ![Coming Soon](https://img.shields.io/badge/Status-Coming_Soon-blue) |
-| | | ![Coming Soon](https://img.shields.io/badge/Status-Coming_Soon-blue) |
 
 ---
 
