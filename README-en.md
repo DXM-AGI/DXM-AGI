@@ -1,4 +1,4 @@
-# 🏦 Du Xiaoman AGI Lab
+# Du Xiaoman AGI Lab
 **Official Technical Sharing Account**
 
 [中文](README.md) | English
