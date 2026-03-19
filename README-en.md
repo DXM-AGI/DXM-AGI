@@ -5,7 +5,7 @@
 
 ---
 
-Welcome to the official GitHub of Du Xiaoman AGI Lab! We are dedicated to the research and open-source sharing of cutting-edge AI technologies.
+Welcome to the official GitHub of Du Xiaoman AGI Lab! We are dedicated to advancing cutting-edge AI research, with a focus on the practical application of AGI technologies in the fintech industry and open-source sharing.
 
 ---
 
