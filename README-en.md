@@ -32,9 +32,7 @@ Welcome to the official GitHub of Du Xiaoman AGI Lab! We are dedicated to the re
 
 | Paper | Venue | Year | Link |
 |-------|-------|------|------|
-| | | | [Paper]() |
-| | | | [Paper]() |
-| | | | [Paper]() |
+| FIRE: A Comprehensive Benchmark for Financial Intelligence and Reasoning Evaluation | arXiv | 2026 | [Paper](https://arxiv.org/abs/2602.22273) |
 
 ---
 

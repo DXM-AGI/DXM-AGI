@@ -32,9 +32,7 @@
 
 | 论文标题 | 会议/期刊 | 年份 | 链接 |
 |----------|-----------|------|------|
-| | | | [Paper]() |
-| | | | [Paper]() |
-| | | | [Paper]() |
+| FIRE: A Comprehensive Benchmark for Financial Intelligence and Reasoning Evaluation | arXiv | 2026 | [Paper](https://arxiv.org/abs/2602.22273) |
 
 ---
 
