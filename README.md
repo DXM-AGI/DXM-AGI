@@ -1,4 +1,4 @@
-# 🏦 度小满AGI实验室
+# 度小满AGI实验室
 **官方技术分享账号**
 
 中文 | [English](README-en.md)
