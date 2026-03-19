@@ -1,41 +1,47 @@
-<div align="center">
 # 🏦 度小满AGI实验室
 **官方技术分享账号**
-</div>
+
 ---
+
 欢迎来到度小满AGI实验室官方GitHub！我们致力于人工智能前沿技术的研究与开源分享。
+
 ---
+
 ## 🔬 研究方向
+
 - **大语言模型** - 模型训练、微调、对齐技术
 - **AI Agent** - 智能体框架与应用
 - **金融AI** - 智能客服、风险管理、智能投顾
 - **RAG & 知识增强** - 检索增强生成技术
+
 ---
+
 ## 🛠️ 开源项目
+
 | 项目 | 描述 | 状态 |
 |------|------|------|
 | [FIRE-Bench](https://github.com/DXM-AGI/FIRE-Bench) | 金融智能体评测基准 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
-| <!-- 新项目占位 --> | <!-- 描述 --> | ![Coming Soon](https://img.shields.io/badge/Status-Coming_Soon-blue) |
-| <!-- 新项目占位 --> | <!-- 描述 --> | ![Coming Soon](https://img.shields.io/badge/Status-Coming_Soon-blue) |
+| | | ![Coming Soon](https://img.shields.io/badge/Status-Coming_Soon-blue) |
+| | | ![Coming Soon](https://img.shields.io/badge/Status-Coming_Soon-blue) |
+
 ---
+
 ## 📄 论文
+
 | 论文标题 | 会议/期刊 | 年份 | 链接 |
 |----------|-----------|------|------|
-| <!-- 论文1 --> | <!-- 会议 --> | <!-- 年份 --> | [Paper]() |
-| <!-- 论文2 --> | <!-- 会议 --> | <!-- 年份 --> | [Paper]() |
-| <!-- 论文3 --> | <!-- 会议 --> | <!-- 年份 --> | [Paper]() |
+| | | | [Paper]() |
+| | | | [Paper]() |
+| | | | [Paper]() |
+
 ---
-## 📢 技术分享
-| 标题 | 类型 | 日期 | 链接 |
-|------|------|------|------|
-| <!-- 分享1 --> | <!-- 博客/报告/教程 --> | <!-- 日期 --> | [Link]() |
-| <!-- 分享2 --> | <!-- 博客/报告/教程 --> | <!-- 日期 --> | [Link]() |
----
+
 ## 🌐 联系我们
+
 - 🏢 官网：[度小满](https://www.duxiaoman.com/)
-- 📧 Email：<!-- 填写联系邮箱 -->
-- 🐦 公众号：<!-- 填写公众号名称 -->
+- 📧 Email：
+- 🐦 公众号：
+
 ---
-<div align="center">
+
 **⭐ 如果我们的项目对你有帮助，欢迎 Star 支持！**
-</div>
